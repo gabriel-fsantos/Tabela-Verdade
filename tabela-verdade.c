@@ -22,7 +22,6 @@ int main(int argc, char *argv[]){
 	}
 
 	geraTabelaVerdade(linhas, colunas, matriz);
-
     printaTabela(linhas, colunas, matriz);
 
 	return 0;
